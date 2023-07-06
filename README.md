@@ -2,6 +2,13 @@
 
 ### Ingeniero en Sistemas en formación apasionado por el desarrollo de software y el mundo de la tecnología
 
+<a href="https://www.linkedin.com/in/juan-pablo-correa-tarazona-6725661b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:juanpablocorreatarazona@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+</a>
+
 ### Languages
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JulianRivers)
