@@ -1,6 +1,6 @@
-# ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Soy Juan Pablo Correa
+# ¡Hi! I'm Juan Pablo Correa
 
-### Full stack developer junior apasionado por el desarrollo de software, siempre en busca de nuevos retos y emocionantes proyectos para aumentar mi conocimiento.
+### Full stack web developer passionate about software development, always looking for new challenges and exciting projects to increase my knowledge.
 
 <a href="https://www.linkedin.com/in/juan-pablo-correa-tarazona-6725661b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
