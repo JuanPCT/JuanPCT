@@ -11,16 +11,18 @@
 
 ### Languages
 
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JulianRivers)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JulianRivers)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/JulianRivers)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JuanPCT)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JuanPCT)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/JuanPCT)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/JuanPCT)
 
 ### Technologies & Frameworks
 
-[![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/JulianRivers)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/JulianRivers)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/JulianRivers)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/JulianRivers)
+[![Springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/JuanPCT)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/JuanPCT)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/JuanPCT)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/JuanPCT)
+[![.NET](https://img.shields.io/badge/dotnet-black?style=for-the-badge&logo=dotnet)](https://github.com/JuanPCT)
 
 <summary>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
 <p align="center">
