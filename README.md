@@ -9,6 +9,11 @@
     <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
 </a>
 
+## Work Account 
+<a href="https://github.com/JuanPCTNS">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&labelColor=000&color=1182c3&logoColor=white&label=%20" alt="github">
+</a>
+
 ### Languages
 
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/JuanPCT)
